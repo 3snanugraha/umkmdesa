@@ -76,7 +76,7 @@ const Hero = () => {
                 src={heroContent[currentSlide].image}
                 alt={heroContent[currentSlide].title}
                 fill
-                className="object-cover md:object-contain transition duration-500 hover:scale-105 rounded-lg"
+                className="object-contain md:object-contain transition duration-500 hover:scale-105 rounded-lg"
                 priority
                 sizes="(max-width: 768px) 100vw, 50vw"
               />

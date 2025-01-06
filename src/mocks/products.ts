@@ -1,16 +1,16 @@
 export const mockProducts = [
   {
     id: "p001",
-    name: "Comet Pembersih",
+    name: "Comet Singkong",
     price: 15000,
     originalPrice: 20000,
     image: "/products/comet.webp",
-    category: "kebersihan",
+    category: "makanan",
     rating: 4.8,
     sold: 500,
     isPopular: true,
     stock: 100,
-    description: "Pembersih lantai premium produksi UMKM desa",
+    description: "Comet makanan ringan dengan rasa yang lezat",
     seller: {
       name: "Toko Bersih",
       location: "Desa Sejahtera"

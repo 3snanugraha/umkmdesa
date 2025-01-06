@@ -63,7 +63,7 @@ const Header = () => {
                   height={100}
                 />
                 <span className="text-xl font-bold text-green-600">
-                  UMKM Desa Panjalu
+                  UMKM Desa
                 </span>
               </Link>
 
