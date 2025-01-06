@@ -2,7 +2,7 @@ import { getPopularProducts } from '@/mocks/products'
 import Header from '@/components/Header'
 import Hero from '@/components/Hero'
 import ProductLists from '@/components/ProductLists'
-import Footer from '@/components/Footer'
+// import Footer from '@/components/Footer'
 
 export default function Home() {
   const popularProducts = getPopularProducts()
